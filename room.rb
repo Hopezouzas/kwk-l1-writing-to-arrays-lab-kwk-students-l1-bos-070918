@@ -1,6 +1,6 @@
 room = ["beyonce", "cardi", "adele"]
 room.insert(1, "Taylor S.")
-puts room
+
 
 numbers = [1,2,3,4]
 numbers.each do |x|
@@ -14,7 +14,7 @@ numbers.each do |x|
   new_numbers << new_number
 end 
 
-  puts new_numbers
+ 
   
   tax_included = []
   cart_item_price = [12.50, 19.99, 3.49,7.99]
