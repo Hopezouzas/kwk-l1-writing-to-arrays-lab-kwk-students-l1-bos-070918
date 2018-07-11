@@ -12,5 +12,5 @@ numbers = [1,2,3,4]
 numbers.each do |x|
   new_number = x + 1 
   new_numbers << new_number
+  puts new_numbers
 end 
-puts new_numbers
