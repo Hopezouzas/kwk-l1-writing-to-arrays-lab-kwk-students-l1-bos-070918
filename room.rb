@@ -23,4 +23,4 @@
     price_with_tax = price * 1.17
     tax_included << price_with_tax
   end 
-  
+  puts tax_included
