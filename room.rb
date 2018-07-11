@@ -44,7 +44,7 @@
   # puts total 
   sandwiches = [["ham", "swiss"],["turkey", "cheddar"],["roast beef"]]
   sandwiches.each do |indSandwich|
-    puts "#{indSandwich}"
+    puts indSandwich
   end
   
   puts sandwiches
