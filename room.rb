@@ -43,6 +43,10 @@
   
   # puts total 
   
+  sandwiches.each do |indSandwich|
+    puts "#{indSandwich}"
+  end
+  
   
   
   
