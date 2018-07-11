@@ -47,6 +47,8 @@
     puts "#{indSandwich}"
   end
   
+  puts sandwiches
+  
   
   
   
