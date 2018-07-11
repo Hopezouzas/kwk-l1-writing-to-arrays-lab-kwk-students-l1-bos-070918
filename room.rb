@@ -42,9 +42,9 @@
   # end 
   
   # puts total 
-  sandwiches = [["ham", "swiss"],["turkey", "cheddar"],["roast beef"]]
+  sandwiches = [["ham", "swiss"],["turkey", "cheddar"],["roast beef"]].reverse 
   sandwiches.each do |indSandwich|
-    puts " I want #{indSandwich}".reverse
+    puts " I want #{indSandwich}"
   end
   
   puts sandwiches
