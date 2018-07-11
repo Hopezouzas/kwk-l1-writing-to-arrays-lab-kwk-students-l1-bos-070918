@@ -35,13 +35,13 @@
   
   # puts big_ticket_prices
   
-  total = 0 
-  cart_item_price = [12.50, 19.99, 3.49, 7.99]
-  cart_item_price.each do |price|
-    total += price
-  end 
+  # total = 0 
+  # cart_item_price = [12.50, 19.99, 3.49, 7.99]
+  # cart_item_price.each do |price|
+  #   total += price
+  # end 
   
-  puts total 
+  # puts total 
   
   
   
